@@ -9,3 +9,4 @@ Instructions # 3
 ##Update # 1
 ##Update # 2
 ##Update # 3 from Git Command Line
+##Update # 4 using command branch form command prompt
